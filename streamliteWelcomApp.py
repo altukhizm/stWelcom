@@ -31,10 +31,7 @@ with col1:
 
 with col2:
     st.subheader("Contact")
-    st.write("📧 Email: example@email.com")
-    st.write("📱 Phone: (555) 123-4567")
+    st.write("📧 Email: zaid@altukhizm.com")
+    st.write("💻 website: altukhizm.com")
 
 
-# Add a footer
-st.markdown("---")
-st.markdown("### Made with ❤️ using Streamlit")
